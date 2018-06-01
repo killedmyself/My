@@ -1,0 +1,10 @@
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.csprojResolveAssemblyReference.cache
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.Form1.resources
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.Properties.Resources.resources
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.csproj.GenerateResource.cache
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.csproj.CoreCompileInputs.cache
+E:\MyISD\FightClub\FightClub\bin\Debug\FightClub.exe
+E:\MyISD\FightClub\FightClub\bin\Debug\FightClub.pdb
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.exe
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.pdb
+E:\MyISD\FightClub\FightClub\obj\Debug\FightClub.NameInput.resources
